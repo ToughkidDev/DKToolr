@@ -12,4 +12,4 @@
 
 
 #### MSX DARKY - DKToolr usage 1 : External Line-In volume
-- https://www.youtube.com/watch?v=Sild267F3_E
+- https://www.youtube.com/watch?v=P-y_Njnhjf0&list=PLlD0W14KLTkpxAsRtlKR5r57rvZVzmb4L
