@@ -5,11 +5,13 @@
 
 *
 *
-#### Darky Starter Tool - Beginners Effect Preset test
  
+#### MSX DARKY - DKToolr usage 1 : External Line-In volume
  
+[![Darky Starter Tool - DKToolr usage 1 : External Line-In volume](https://yt-embed.herokuapp.com/embed?v=Sild267F3_E)](https://www.youtube.com/watch?v=Sild267F3_E "Darky Starter Tool - DKToolr usage 1 : External Line-In volume")
+
+#### MSX DARKY -  DKToolr usage 2 : Beginners Effect Preset test
+
 [![Darky Starter Tool - Beginners Effect Preset test](https://yt-embed.herokuapp.com/embed?v=UbZ_WyOio24)](https://www.youtube.com/watch?v=UbZ_WyOio24&list=PLlD0W14KLTkpxAsRtlKR5r57rvZVzmb4L&index=11 "Darky Starter Tool - Beginners Effect Preset test")
 
 
-#### MSX DARKY - DKToolr usage 1 : External Line-In volume
-- https://www.youtube.com/watch?v=Sild267F3_E&list=PLlD0W14KLTkpxAsRtlKR5r57rvZVzmb4L&index=28
