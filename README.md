@@ -6,6 +6,10 @@
 *
 *
  
+#### MSX DARKY - First Day Guide
+ 
+[![Darky Starter Tool - First Day Guide](https://yt-embed.herokuapp.com/embed?v=OmSQRPHMJw)](https://www.youtube.com/watch?v=OmSQRPHMJw "Darky Starter Tool - First Day Guide ")
+  
 #### MSX DARKY - DKToolr usage 1 : External Line-In volume
  
 [![Darky Starter Tool - DKToolr usage 1 : External Line-In volume](https://yt-embed.herokuapp.com/embed?v=Sild267F3_E)](https://www.youtube.com/watch?v=Sild267F3_E "Darky Starter Tool - DKToolr usage 1 : External Line-In volume")
