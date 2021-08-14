@@ -1,7 +1,7 @@
 # DKToolr - MSX Darky Starter Tool 4 beginners
  MSX Darky Starter Tool 4 beginners
 
-![MSX VGMPlay for Darky - Release Note 
+![MSX VGMPlay for Darky - Release Note] 
 *
 1. SCC-I play with DARKY's 2xPSG channels 
 2. YM2203 volume balance fixed on YM2610/B (NEOTRON)
