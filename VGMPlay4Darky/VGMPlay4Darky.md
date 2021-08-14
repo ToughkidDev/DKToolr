@@ -1,21 +1,10 @@
 # DKToolr - MSX Darky Starter Tool 4 beginners
  MSX Darky Starter Tool 4 beginners
 
-![MSX Darky Starter Tool 4 beginners](DKToolR8.jpg)
-
+![MSX VGMPlay for Darky - Release Note 
 *
-*
- 
-#### MSX DARKY - First Day Guide
- 
-[![Darky Starter Tool - First Day Guide](https://yt-embed.herokuapp.com/embed?v=-OmSQRPHMJw)](https://www.youtube.com/watch?v=-OmSQRPHMJw "Darky Starter Tool - First Day Guide ")
-  
-#### MSX DARKY - DKToolr usage 1 : External Line-In volume
- 
-[![Darky Starter Tool - DKToolr usage 1 : External Line-In volume](https://yt-embed.herokuapp.com/embed?v=Sild267F3_E)](https://www.youtube.com/watch?v=Sild267F3_E "Darky Starter Tool - DKToolr usage 1 : External Line-In volume")
-
-#### MSX DARKY -  DKToolr usage 2 : Beginners Effect Preset test
-
-[![Darky Starter Tool - Beginners Effect Preset test](https://yt-embed.herokuapp.com/embed?v=UbZ_WyOio24)](https://www.youtube.com/watch?v=UbZ_WyOio24&list=PLlD0W14KLTkpxAsRtlKR5r57rvZVzmb4L&index=11 "Darky Starter Tool - Beginners Effect Preset test")
-
-
+1. SCC-I play with DARKY's 2xPSG channels 
+2. YM2203 volume balance fixed on YM2610/B (NEOTRON)
+3. 2x YM2203 play on 2x NEOTRON (YM2610, YM2610B) support
+4. 2x DCSG with DARKY ( a. InternalPSG mirrored(useful with MIDIPACv2), b. Darky )
+5. LuxuryBox real SCC support
