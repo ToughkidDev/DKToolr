@@ -15,4 +15,7 @@
  
 [![MSX VGMPlay v1.3dk - YM2203(OPN) Sampler - play on MSX NEOTRON(YM2610-B)](https://yt-embed.herokuapp.com/embed?v=46fFfrFpnas)](https://www.youtube.com/watch?v=46fFfrFpnas "MSX VGMPlay v1.3dk - YM2203(OPN) Sampler - play on MSX NEOTRON(YM2610-B)")
   
+ 
+[![MSX VGMPlay v1.3dk - 2x DCSG (SN76489) Sampler.](https://yt-embed.herokuapp.com/embed?v=HJU8osT6ZPE)](https://www.youtube.com/watch?v=HJU8osT6ZPE "MSX VGMPlay v1.3dk - YM2203(OPN) Sampler - 2x DCSG (SN76489) Sampler.")
+  
 
