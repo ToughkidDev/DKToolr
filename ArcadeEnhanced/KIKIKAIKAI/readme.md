@@ -1,17 +1,17 @@
-MSX 奇々怪界 (기기괴계 Kiki Kaikai)
-		             Arcade Enhanced Version 1.0
+# MSX2 奇々怪界 (기기괴계 Kiki Kaikai)
+### MSX2 奇々怪界 (기기괴계 Kiki Kaikai) Arcade Enhanced Version 1.0
 
 
 Video demostration
 
-MSX2 or higher (with Ram 64k VRAM 128k) 
+	- MSX2 or higher (with Ram 64k VRAM 128k) 
  
-KIKIKAIKAI's arcade original is made for YM2203 (OPN).
+	- KIKIKAIKAI's arcade original is made for YM2203 (OPN).
 
-This MSX Enhanced version supports SFG-01,  SFG-05(YM2151-OPM) and NEOTRON, OSC 1N1(YM2610-OPNB), 
-	which can cover YM2203 (OPN)
+	- This MSX Enhanced version supports SFG-01,  SFG-05(YM2151-OPM) and NEOTRON, OSC 1N1(YM2610-OPNB), 
+	  which can cover YM2203 (OPN)
 
-And  - ASCII 8 Mapper
+	- ASCII 8 Mapper
 
 MSX2 Enhanced Credits:
 
