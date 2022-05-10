@@ -34,7 +34,8 @@ Notes:
 
     Although it is not a grandiose thing like Smooth Scroll or graphic upgrade, 
     I started working on it because I felt that it could greatly enhance the atmosphere of the game.
-    I ask for your support so that I can continue to work on a few disappointing MSX version of arcade games in the future.
+    I ask for your support so that 
+          I can continue to work on a few disappointing MSX version of arcade games in the future.
 
 ------------------------------------------------------
   
