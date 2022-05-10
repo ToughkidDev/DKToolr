@@ -15,10 +15,10 @@ Video demostration
 
 MSX2 Enhanced Credits:
 
-- VGM Sound module by Grauw - Re-Play                           
-  Laurens Holst : He helped me with really great and effective VGM module.
 - Composer: Hisayoshi Ogura
 - Original Game Developer TAITO 1986
+- VGM Sound module by Grauw - Re-Play                           
+  Laurens Holst : He helped me with really great and effective VGM module.
 - and transplanted by ToughkidCST 
 
 
