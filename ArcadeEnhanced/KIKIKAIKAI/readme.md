@@ -2,7 +2,7 @@
 ### MSX2 奇々怪界 (기기괴계 Kiki Kaikai) Arcade Enhanced Version 1.0
 
 
-Video demostration
+##V ideo demostration
 
 	- MSX2 or higher (with Ram 64k VRAM 128k) 
  
@@ -15,7 +15,7 @@ Video demostration
 
 
 
-Notes:
+## Notes:
 
 	When using the emulator, you can use it after inserting the SFG-01 or SFG-05 into any slot.
 	에뮬레이터 사용시에는 아래와 같이 SFG-01 또는 SFG-05를 슬롯에 삽입한 후에 실행시켜 주십시요. 
@@ -37,7 +37,7 @@ Notes:
     	I started working on it because I felt that it could greatly enhance the atmosphere of the game.
     	
 
-------------------------------------------------------
+##------------------------------------------------------
   
     게임은 ‘음악이 반이다.’ 라는 말이 있습니다.  아무리 잘 만들어진 게임이라도 BGM이 별로라면 게임도 싸구려처럼 보이게 마련입니다.  
     오래전 아케이드로 처음 접했던 이 게임을 저는 아주 즐겁게 즐겼습니다만, MSX2로 출시된 이 게임의 인상은 아주 나빠 보였습니다. 
@@ -54,7 +54,7 @@ I ask for your support so that
 
 앞으로 몇개의 아쉬운 MSX판 이식작들에 대해서도 추가 작업을 즐겁게 해나갈 수 있도록 응원을 부탁드립니다. 
 
-MSX2 Enhanced Credits:
+## MSX2 Enhanced Credits:
 
 - Composer: Hisayoshi Ogura
 - Original Game Developer TAITO 1986
