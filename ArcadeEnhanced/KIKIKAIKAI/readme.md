@@ -18,7 +18,7 @@ MSX2 Enhanced Credits:
   Laurens Holst : He helped me with really great and effective VGM module.
 - Composer: Hisayoshi Ogura
 - Original Game Developer TAITO 1986
-- and Enhanced ToughkidCST 
+- and transplanted by ToughkidCST 
 
 
 Notes:
