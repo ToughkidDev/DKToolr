@@ -4,7 +4,7 @@ MSX 奇々怪界 (기기괴계 Kiki Kaikai)
 
 Video demostration
 
-1.  MSX2 or higher (with Ram 64k VRAM 128k) 
+MSX2 or higher (with Ram 64k VRAM 128k) 
  
 KIKIKAIKAI's arcade original is made for YM2203 (OPN).
 This MSX Enhanced version supports SFG-01,  SFG-05(YM2151-OPM) 
@@ -12,13 +12,13 @@ This MSX Enhanced version supports SFG-01,  SFG-05(YM2151-OPM)
 
 And  - ASCII 8 Mapper
 
-Credits:
+MSX2 Enhanced Credits:
 
 - VGM Sound module by Grauw - Re-Play                           
   Laurens Holst : He helped me with really great and effective VGM module.
 - Composer: Hisayoshi Ogura
 - Original Game Developer TAITO 1986
-- and . . .  ToughkidCST 
+- and Enhanced ToughkidCST 
 
 Notes:
   There is a saying that ‘Music is half the Game’.   
