@@ -24,6 +24,12 @@ MSX2 Enhanced Credits:
 
 Notes:
 
+![MSX KIKI KAIKAI 4 Emulator Users](KIKIonOpenMSX.png)
+
+	When using the emulator, you can use it after inserting the SFG-01 or SFG-05 into any slot.
+	에뮬레이터 사용시에는 SFG-01 또는 SFG-05를 삽입한 후에 실행시켜 주십시요. 
+
+
     There is a saying that ‘Music is half the Game’.   
     No matter how good a game is, if the BGM is not good, the game will look cheap. 
     I first encountered this game in arcade a long time ago and I really enjoyed it.  
