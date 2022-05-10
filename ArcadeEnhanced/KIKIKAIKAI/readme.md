@@ -2,7 +2,7 @@
 ### MSX2 奇々怪界 (기기괴계 Kiki Kaikai) Arcade Enhanced Version 1.0
 
 
-##V ideo demostration
+## Video demostration
 
 	- MSX2 or higher (with Ram 64k VRAM 128k) 
  
@@ -37,7 +37,7 @@
     	I started working on it because I felt that it could greatly enhance the atmosphere of the game.
     	
 
-##------------------------------------------------------
+## ------------------------------------------------------
   
     게임은 ‘음악이 반이다.’ 라는 말이 있습니다.  아무리 잘 만들어진 게임이라도 BGM이 별로라면 게임도 싸구려처럼 보이게 마련입니다.  
     오래전 아케이드로 처음 접했던 이 게임을 저는 아주 즐겁게 즐겼습니다만, MSX2로 출시된 이 게임의 인상은 아주 나빠 보였습니다. 
