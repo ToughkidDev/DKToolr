@@ -34,8 +34,7 @@ Notes:
 
     Although it is not a grandiose thing like Smooth Scroll or graphic upgrade, 
     	I started working on it because I felt that it could greatly enhance the atmosphere of the game.
-    	I ask for your support so that 
-            I can continue to work on a few disappointing MSX version of arcade games in the future.
+    	
 
 ------------------------------------------------------
   
@@ -49,6 +48,8 @@ Notes:
     나름 게임의 분위기를 크게 끌어올릴 수 있다고 느껴 작업을 시작하게 되었습니다. 
 
 
+I ask for your support so that 
+            I can continue to work on a few disappointing MSX version of arcade games in the future.
 앞으로 몇개의 아쉬운 MSX판 이식작들에 대해서도 추가 작업을 즐겁게 해나갈 수 있도록 응원을 부탁드립니다. 
 
 ToughkidCST
