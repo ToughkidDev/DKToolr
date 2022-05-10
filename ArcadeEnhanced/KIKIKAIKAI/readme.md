@@ -20,8 +20,10 @@ MSX2 Enhanced Credits:
 - Original Game Developer TAITO 1986
 - and Enhanced ToughkidCST 
 
+
 Notes:
-  There is a saying that ‘Music is half the Game’.   
+
+    There is a saying that ‘Music is half the Game’.   
     No matter how good a game is, if the BGM is not good, the game will look cheap. 
     I first encountered this game in arcade a long time ago and I really enjoyed it.  
     However, the game, released on MSX2, looked very bad.
@@ -34,8 +36,9 @@ Notes:
     I started working on it because I felt that it could greatly enhance the atmosphere of the game.
     I ask for your support so that I can continue to work on a few disappointing MSX version of arcade games in the future.
 
+------------------------------------------------------
   
-게임은 ‘음악이 반이다.’ 라는 말이 있습니다.  아무리 게임을 잘 만들어도  BGM이 별로라면 게임도 싸구려처럼 보이게 마련이죠.  
+    게임은 ‘음악이 반이다.’ 라는 말이 있습니다.  아무리 게임을 잘 만들어도  BGM이 별로라면 게임도 싸구려처럼 보이게 마련이죠.  
     오래전 아케이드로 처음 접했던 이 게임을 저는 아주 즐겁게 즐겼습니다만, MSX2로 출시된 이 게임의 인상은 아주 나빠 보였습니다. 
 
     요 근래들어 MSX2 기기괴계의 게임을 우연히 플레이하게 되면서 아케이드에서 즐겼던 재미를 찾을 수 있게 되었고,  
@@ -43,6 +46,7 @@ Notes:
 
     비록 Smooth Scroll이나 그래픽적 업그레이드와 같은 거창한 것은 아니지만, 
     나름 게임의 분위기를 크게 끌어올릴 수 있다고 느껴 작업을 시작하게 되었습니다. 
+
 
 앞으로 몇개의 아쉬운 MSX판 이식작들에 대해서도 추가 작업을 즐겁게 해나갈 수 있도록 응원을 부탁드립니다. 
 
