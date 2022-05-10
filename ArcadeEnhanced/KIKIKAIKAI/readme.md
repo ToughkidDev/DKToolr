@@ -28,9 +28,9 @@ Notes:
     I first encountered this game in arcade a long time ago and I really enjoyed it.  
     However, the game, released on MSX2, looked very bad.
 
-    Lately, I've been playing this game by accident 
-    and I'm able to find the fun I had in the arcade, 
-    and I felt that the bad music made the first impression of this game bad and hampered my immersion.
+    Lately, I've been playing this MSX2 version by accident 
+    	and I'm able to find the fun I had in the arcade, 
+    	and I felt that the bad music made the first impression of this game bad and hampered my immersion.
 
     Although it is not a grandiose thing like Smooth Scroll or graphic upgrade, 
     I started working on it because I felt that it could greatly enhance the atmosphere of the game.
