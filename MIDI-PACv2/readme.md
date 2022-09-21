@@ -1,7 +1,7 @@
-MIDIPACv2 PSG Channels Muter v0.1
+## MIDIPACv2 PSG Channels Muter v0.1
 
 
-I release PSGMuter that turns off part 11, 12, and 13 channel used as MIDI-PAC v2.
+### I release PSGMuter that turns off part 11, 12, and 13 channel used as MIDI-PAC v2.
 
 Run it whenever you turn on/off the PSG channel of MIDIPAC-v2, or use it by including it in Autoexec.bat.
 
