@@ -43,11 +43,6 @@ Ver 1.0 - Features
 
 Please let me know about any problems you find while playing using the 'Issues' bulletin board here.
     	
-I ask for your support so that 
-            I can continue to work on a few disappointing MSX version of arcade games in the future.
-
-앞으로 몇개의 아쉬운 MSX판 이식작들에 대해서도 추가 작업을 즐겁게 해나갈 수 있도록 응원을 부탁드립니다. 
-
 
 ## Credits:
 
