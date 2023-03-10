@@ -34,13 +34,13 @@ Ver 1.0 - Features
 
             MSX Internal PSG - 3Chs as BGM (mono 3.579545Mhz) + 
             DARKY PSG-A - 3Chs as BGM (stereo 3.6Mhz) +
-            DARKY PSG-B - 1Chs as Sound Effect 
+            DARKY PSG-B - 1Ch as Sound Effect 
             7 channels in total
 
 **MegaFlashROM SCC+ SD Ver.**
 
             MSX Internal PSG - 3Chs as BGM (mono 3.579545Mhz) +
-            MegaFlashROM SCC+ SD Ext PSG - 1Chs as Sound Effect +
+            MegaFlashROM SCC+ SD Ext PSG - 1Ch as Sound Effect +
             4 channels in total
 
 Please let me know about any problems you find while playing using the 'Issues' bulletin board here.
