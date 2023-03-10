@@ -8,7 +8,7 @@ https://youtu.be/V_LdHzGwJaI
 	- MSX1 or higher (with Ram 8k) 
  
 	- This MSX Enhanced version supports SuperSoniqs DARKY ( PenguinAdv_2xPSG_DARKY_20230310.ips )
-                          & MegaFlashROM SCC+ SD Ext PSG ( PenguinAdv_2xPSG_MFRSD_20230310.ips )
+                            & MegaFlashROM SCC+ SD Ext PSG ( PenguinAdv_2xPSG_MFRSD_20230310.ips )
 
 SuperSoniqs DARKY	- https://www.msx.org/wiki/SuperSoniqs_Darky 
 
