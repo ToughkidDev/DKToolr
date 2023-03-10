@@ -10,10 +10,10 @@ https://youtu.be/V_LdHzGwJaI
 	- This MSX Enhanced version supports SuperSoniqs DARKY ( PenguinAdv_2xPSG_DARKY_20230310.ips )
                           & MegaFlashROM SCC+ SD Ext PSG ( PenguinAdv_2xPSG_MFRSD_20230310.ips )
 
- SuperSoniqs DARKY    - https://www.msx.org/wiki/SuperSoniqs_Darky
- 
- MegaFlashROM SCC+ SD - https://www.msx.org/wiki/MSX_Cartridge_Shop_MegaFlashROM_SCC%2B_SD
-  
+SuperSoniqs DARKY	- https://www.msx.org/wiki/SuperSoniqs_Darky 
+
+MegaFlashROM SCC+ SD	- https://www.msx.org/wiki/MSX_Cartridge_Shop_MegaFlashROM_SCC%2B_SD 
+
    
 	- KONAMI Megarom Mapper
 	
