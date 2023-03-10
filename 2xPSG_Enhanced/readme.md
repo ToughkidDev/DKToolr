@@ -19,9 +19,9 @@ MegaFlashROM SCC+ SD	- https://www.msx.org/wiki/MSX_Cartridge_Shop_MegaFlashROM_
 	
 	- For IPS Patch use this original ROM:
 
-		1. SHA-1 	- d53e0c8bcd98820afe820f756af35cc97911bfe4
-		2. MD5	  - 9c3b9492f2b565cbddf562195f540993
-		3. GoodMSX RomFileName - Yume Tairiku Adventure (1986) (Konami) (J).rom
+		1. SHA-1	- d53e0c8bcd98820afe820f756af35cc97911bfe4
+		2. MD5	  	- 9c3b9492f2b565cbddf562195f540993
+		3. GoodMSX Rom FileName - Yume Tairiku Adventure (1986) (Konami) (J).rom
 
 
 ## Notes:
