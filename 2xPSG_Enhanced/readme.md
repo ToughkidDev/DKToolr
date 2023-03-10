@@ -26,7 +26,7 @@ MegaFlashROM SCC+ SD	- https://www.msx.org/wiki/MSX_Cartridge_Shop_MegaFlashROM_
 
 ## Notes:
 
-Ver 1.0 - Features
+Ver 1.0 - Features 
 
 **DARKY Ver.**
 
