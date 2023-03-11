@@ -37,7 +37,7 @@ Ver 1.0 - Features
             DARKY PSG-B - 1Ch as Sound Effect 
             7 channels in total
 
-**MegaFlashROM SCC+ SD Ver.**
+**MegaFlashROM SCC+ SD Ver.**  (extPSG port 10h~12h)
 
             MSX Internal PSG - 3Chs as BGM (mono 3.579545Mhz) +
             MegaFlashROM SCC+ SD Ext PSG - 1Ch as Sound Effect +
