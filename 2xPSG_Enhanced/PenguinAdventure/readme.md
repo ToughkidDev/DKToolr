@@ -47,4 +47,4 @@ Please let me know about any problems you find while playing using the 'Issues' 
 
 - Composer: Kenichi Matsubara Yoshinori Sasaki
 - Original Game Developer Konami 1986
-- by ToughkidCST 
+- Enhancement code by ToughkidCST
