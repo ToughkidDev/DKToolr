@@ -1,24 +1,21 @@
-## MSX Vampire Killer (  悪魔城ドラキュラ (KONAMI) 1986 )
-### MSX Vampire Killer ( 悪魔城ドラキュラ) 2xPSG Enhanced Version 1.0
+## MSX Vampire Killer (  悪魔城ドラキュラ (KONAMI) 1986 ) 2xPSG Enhanced Version 1.0
+
+### *What is the 2xPSG Enhanced version? (Video Demonstration)*
+<a data-flickr-embed="true" href="https://youtu.be/wHrUKseRUeI" title="스크린샷 2023-03-17 오후 9.40.58"><img src="https://live.staticflickr.com/65535/52754150952_8826c6c418_w.jpg" width="500" height="377" alt="스크린샷 2023-03-17 오후 9.40.58"/></a>
 
 
-## Video demonstration
-<a data-flickr-embed="true" href="https://youtu.be/wHrUKseRUeI" title="스크린샷 2023-03-17 오후 9.40.58"><img src="https://live.staticflickr.com/65535/52754150952_8826c6c418_w.jpg" width="400" height="302" alt="스크린샷 2023-03-17 오후 9.40.58"/></a>
-https://youtu.be/wHrUKseRUeI
-
-	- MSX2 or higher (with Ram 64k VRam 64k) 
- 
-	- This MSX Enhanced version supports SuperSoniqs DARKY 
-                            & MegaFlashROM SCC+ SD Ext PSG ( I/O port 10~12h )
-
-SuperSoniqs DARKY	- https://www.msx.org/wiki/SuperSoniqs_Darky 
-
-MegaFlashROM SCC+ SD	- https://www.msx.org/wiki/MSX_Cartridge_Shop_MegaFlashROM_SCC%2B_SD 
-
-   
-	- KONAMI Megarom Mapper
+- MSX2 or higher (with Ram 64k VRam 64k) 
 	
-	- For IPS Patch use this original ROM:
+- This MSX Enhanced version supports 
+
+	[- SuperSoniqs DARKY](https://www.msx.org/wiki/SuperSoniqs_Darky) 
+     
+	[- MegaFlashROM SCC+ SD Ext PSG ( I/O port 10~12h )](https://www.msx.org/wiki/MSX_Cartridge_Shop_MegaFlashROM_SCC%2B_SD)
+			    
+
+- KONAMI Megarom Mapper
+	
+- For IPS Patch use this original ROM:
 
 		1. SHA-1	- 5ef7d03b138a2023f6def241b671c666f97ed83b
 		2. MD5	  	- 92ba9dab3c7a4ac6c8a130f6ccbac91c
