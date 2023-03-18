@@ -1,11 +1,8 @@
-## MSX Penguin Adventure ( 夢大陸アドベンチャー (KONAMI) 1986 )
-### MSX Penguin Adventure (夢大陸アドベンチャー) 2xPSG Enhanced Version 1.0
+## MSX Penguin Adventure ( 夢大陸アドベンチャー (KONAMI) 1986) 2xPSG Enhanced Version 1.0
 
 
-## Video demonstration
-<a data-flickr-embed="true" href="https://youtu.be/V_LdHzGwJaI" title="2xpsg_pa"><img src="https://live.staticflickr.com/65535/52738001336_769011a4de.jpg" width="500" height="313" alt="2xpsg_pa"/></a>
-
-https://youtu.be/V_LdHzGwJaI
+### *What is the 2xPSG Enhanced version? (Video Demonstration)*
+<a data-flickr-embed="true" href="https://youtu.be/wHrUKseRUeI" title="2xpsg_pa"><img src="https://live.staticflickr.com/65535/52738001336_769011a4de.jpg" width="500" height="313" alt="2xpsg_pa"/></a>
 
 	- MSX1 or higher (with Ram 8k) 
  
