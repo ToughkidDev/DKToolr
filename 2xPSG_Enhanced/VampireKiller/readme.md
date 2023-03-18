@@ -3,14 +3,13 @@
 
 
 ## Video demonstration
-<a data-flickr-embed="true" href="https://youtu.be/wHrUKseRUeI" title="2xpsg_pa"><img src="https://live.staticflickr.com/65535/52738001336_769011a4de.jpg" width="500" height="313" alt="2xpsg_pa"/></a>
-
+<a data-flickr-embed="true" href="https://youtu.be/wHrUKseRUeI" title="스크린샷 2023-03-17 오후 9.40.58"><img src="https://live.staticflickr.com/65535/52754150952_8826c6c418_w.jpg" width="400" height="302" alt="스크린샷 2023-03-17 오후 9.40.58"/></a>
 https://youtu.be/wHrUKseRUeI
 
 	- MSX2 or higher (with Ram 64k VRam 64k) 
  
-	- This MSX Enhanced version supports SuperSoniqs DARKY ( VKiller_2xPSG_DARKY_20230310.ips )
-                            & MegaFlashROM SCC+ SD Ext PSG ( VKiller_2xPSG_MFRSD_20230310.ips )
+	- This MSX Enhanced version supports SuperSoniqs DARKY 
+                            & MegaFlashROM SCC+ SD Ext PSG ( I/O port 10~12h )
 
 SuperSoniqs DARKY	- https://www.msx.org/wiki/SuperSoniqs_Darky 
 
@@ -21,9 +20,29 @@ MegaFlashROM SCC+ SD	- https://www.msx.org/wiki/MSX_Cartridge_Shop_MegaFlashROM_
 	
 	- For IPS Patch use this original ROM:
 
+		1. SHA-1	- 5ef7d03b138a2023f6def241b671c666f97ed83b
+		2. MD5	  	- 92ba9dab3c7a4ac6c8a130f6ccbac91c
+		3. GoodMSX Rom FileName - Akumajyo Drakyula - Vampire Killer (1986) (Konami) (J).rom
+		4. IPS - file name - 	VKiller_2xPSG_DARKY_20230319.ips  (SuperSoniqs DARKY)
+					VKiller_2xPSG_MFRSD_20230319.ips  (MegaFlashROM SCC+ SD Ext PSG)
+					
+		1. SHA-1	- 5460a88c25386b1b950b57fc1325fd75587cc825
+		2. MD5	  	- 51d021af50c3a48124331a9fbc738b97
+		3. GoodMSX Rom FileName - Akumajyo Drakyula - Vampire Killer (1986) (Konami) (J) [a1].rom
+		4. IPS - file name - 	VKiller_2xPSG_DARKY[a1]_20230319.ips  (SuperSoniqs DARKY)
+					VKiller_2xPSG_MFRSD[a1]_20230319.ips  (MegaFlashROM SCC+ SD Ext PSG)
+
+		1. SHA-1	- b58e77f819dfbde72845801cff4b4e0a2f20ef5f
+		2. MD5	  	- 5d50c1c7bc164c3d01c41b0b8a501d72
+		3. GoodMSX Rom FileName - Akumajyo Drakyula - Vampire Killer (1986) (Konami) (J) [a2].rom
+		4. IPS - file name - 	VKiller_2xPSG_DARKY[a2]_20230319.ips  (SuperSoniqs DARKY)
+					VKiller_2xPSG_MFRSD[a2]_20230319.ips  (MegaFlashROM SCC+ SD Ext PSG)
+
 		1. SHA-1	- e78511a2b8cca37a96aa396c938863c92a20c797
 		2. MD5	  	- 273c3dff8315a6a4fced758f07d54aaa
 		3. GoodMSX Rom FileName - Akumajyo Drakyula - Vampire Killer (1986) (Konami) (J) [a3].rom
+		4. IPS - file name - 	VKiller_2xPSG_DARKY[a3]_20230319.ips  (SuperSoniqs DARKY)
+					VKiller_2xPSG_MFRSD[a3]_20230319.ips  (MegaFlashROM SCC+ SD Ext PSG)
 
 
 ## Notes:
