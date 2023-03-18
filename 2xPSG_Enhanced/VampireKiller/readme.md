@@ -6,7 +6,7 @@
 
 - MSX2 or higher (with Ram 64k VRam 64k) 
 	
-- This MSX Enhanced version supports 
+- This 2xPSG BGM Enhanced version supports 
 
 	[- SuperSoniqs DARKY](https://www.msx.org/wiki/SuperSoniqs_Darky) 
      
