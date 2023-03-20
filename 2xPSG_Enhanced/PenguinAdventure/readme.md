@@ -2,7 +2,7 @@
 
 
 ### *What is the 2xPSG Enhanced version? (Video Demonstration)*
-<a data-flickr-embed="true" href="https://youtu.be/wHrUKseRUeI" title="2xpsg_pa"><img src="https://live.staticflickr.com/65535/52738001336_769011a4de.jpg" width="500" height="313" alt="2xpsg_pa"/></a>
+<a data-flickr-embed="true" href="https://youtu.be/hn2MNHoefwk" title="2xpsg_pa"><img src="https://live.staticflickr.com/65535/52738001336_769011a4de.jpg" width="500" height="313" alt="2xpsg_pa"/></a>
 
 	- MSX1 or higher (with Ram 8k) 
  
