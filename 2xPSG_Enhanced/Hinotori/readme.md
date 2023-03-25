@@ -1,7 +1,7 @@
 ## MSX Hi no Tori ( 불새 봉황편 火の鳥 - 鳳凰編 (KONAMI) 1987 ) 2xPSG Enhanced Version 1.0
 
 ### *What is the 2xPSG Enhanced version? (Video Demonstration)*
-<a data-flickr-embed="true" href="https://www.flickr.com/gp/toughkidcst/y531382494" title="스크린샷 2023-03-24 오후 8.36.36 복사"><img src="https://live.staticflickr.com/65535/52769028452_9f368dcd9a_z.jpg" width="640" height="360" alt="스크린샷 2023-03-24 오후 8.36.36 복사"/></a>
+<a data-flickr-embed="true" href="https://youtu.be/A2SwAj_0Fkc" title="스크린샷 2023-03-24 오후 8.36.36 복사"><img src="https://live.staticflickr.com/65535/52769028452_9f368dcd9a_z.jpg" width="640" height="360" alt="스크린샷 2023-03-24 오후 8.36.36 복사"/></a>
 
 - MSX2 or higher (with Ram 64k VRam 64k) 
 	
