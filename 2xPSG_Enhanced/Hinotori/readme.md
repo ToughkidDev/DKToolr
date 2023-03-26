@@ -19,27 +19,27 @@
 		1. SHA-1	- 612c18616bc800d9eb69b9da3cd29eca31f50c1c
 		2. MD5	  	- c35d87613bc6c7f5c03bfb8fa220a3f6
 		3. GoodMSX Rom FileName - Hinotori (1987) (Konami) (J).rom
-		4. IPS - file name - 	HinoTori_2xPSG_DARKY_20230326.ips  (SuperSoniqs DARKY)
-					HinoTori_2xPSG_MFRSD_20230326.ips  (MegaFlashROM SCC+ SD Ext PSG)
+		4. IPS - file name - 	HinoTori_2xPSG_20230326.ips  
+					
 					
 		1. SHA-1	- d723f2eb1c887db5448fd56be5e7c57e60d88e63
 		2. MD5	  	- 8d89caf4804637e302fe1d57d2e2af73
 		3. GoodMSX Rom FileName - Hinotori (1987) (Konami) (J) [a1].rom
-		4. IPS - file name - 	HinoTori_2xPSG_DARKY[a1]_20230326.ips  (SuperSoniqs DARKY)
-					HinoTori_2xPSG_MFRSD[a1]_20230326.ips  (MegaFlashROM SCC+ SD Ext PSG)
+		4. IPS - file name - 	HinoTori_[a1]_2xPSG_20230326.ips  
+					
 
 ## Notes:
 
 Ver 1.0 - Features 
 
-**DARKY Ver.**
+**SuperSoniqs DARKY.**
 
             MSX Internal PSG - 3Chs as BGM (mono 3.579545Mhz) + 
             DARKY PSG-A - 3Chs as BGM (stereo 3.6Mhz) +
             DARKY PSG-B - 1Ch as Sound Effect 
             7 channels in total
 
-**MegaFlashROM SCC+ SD Ver.**  (extPSG port 10h~12h)
+**MegaFlashROM SCC+ SD**  (extPSG port 10h~12h)
 
             MSX Internal PSG - 3Chs as BGM (mono 3.579545Mhz) +
             MegaFlashROM SCC+ SD Ext PSG - 1Ch as Sound Effect +
