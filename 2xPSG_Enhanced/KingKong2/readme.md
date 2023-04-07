@@ -1,7 +1,7 @@
 ## MSX KingKong 2 (  キングコング2 (KONAMI) 1986 ) 2xPSG Enhanced Version 1.0
 
 ### *What is the 2xPSG Enhanced version? (Video Demonstration)*
-<a data-flickr-embed="true" href="https://youtu.be/gHtZ5DLvVc0" title="kingkong2 복사"><img src="https://live.staticflickr.com/65535/52796856071_af7597885e_z.jpg" width="640" height="386" alt="kingkong2 복사"/></a>
+<a data-flickr-embed="true" href="https://youtu.be/AOPuYzsv_eA" title="스크린샷 2023-04-07 오후 6.12.56"><img src="https://live.staticflickr.com/65535/52799828610_782062ee26.jpg" width="500" height="363" alt="스크린샷 2023-04-07 오후 6.12.56"/></a>
 
 - MSX2 or higher (with Ram 64k VRam 64k) 
 	
@@ -38,6 +38,9 @@ Ver 1.0 - Features
             MSX Internal PSG - 3Chs as BGM (mono 3.579545Mhz) +
             MegaFlashROM SCC+ SD Ext PSG - 1Ch as Sound Effect +
             4 channels in total
+
+### *Play Video Demonstration*
+<a data-flickr-embed="true" href="https://youtu.be/gHtZ5DLvVc0" title="kingkong2 복사"><img src="https://live.staticflickr.com/65535/52796856071_af7597885e_z.jpg" width="640" height="386" alt="kingkong2 복사"/></a>
 
 Please let me know about any problems you find while playing using the 'Issues' bulletin board here.
     	
