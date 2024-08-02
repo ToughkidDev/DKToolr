@@ -32,21 +32,21 @@ Ver 1.0 - Features
 
 Enhancement MSX RASTAN SAGA's BGM to the SEGA Master System(SMS) version.
 
-            Replace PSG BGM with OPLL YM2413 BGM released as Sega Master System Version
+      - Replace PSG BGM with OPLL YM2413 BGM released as Sega Master System Version
 
-            By outputting OPLL YM2413 BGM and MSX PSG BGM at the same time, 
+      - By outputting OPLL YM2413 BGM and MSX PSG BGM at the same time, 
                               you can enjoy a more enhanced BGM than any other version.
-            Start the game while holding down the 'f' key on the game's title screen,
+              Start the game while holding down the 'f' key on the game's title screen,
                                             Game will enter PSG simultaneous play mode.
                (Because the dungeon stage music was different, this part was excluded.)
 
-	    The prologue track used in the Sega Master System version 
+	  - The prologue track used in the Sega Master System version 
                                 was restored through the main title of the MSX version.
      
-            Fixed a bug where stage clear music would play 
+      - Fixed a bug where stage clear music would play 
                      and stop depending on the conditions when entering the boss stage.
                 
-            Problems such as sagging BGM that occur when switching screens 
+      - Problems such as sagging BGM that occur when switching screens 
                                                    have been improved by more than 50%.
 
 
