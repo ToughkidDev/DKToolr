@@ -40,6 +40,9 @@ Enhancement MSX RASTAN SAGA's BGM to the SEGA Master System(SMS) version.
                                             Game will enter PSG simultaneous play mode.
                (Because the dungeon stage music was different, this part was excluded.)
 
+	    The prologue track used in the Sega Master System version 
+                                was restored through the main title of the MSX version.
+     
             Fixed a bug where stage clear music would play 
                      and stop depending on the conditions when entering the boss stage.
                 
