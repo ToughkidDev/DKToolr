@@ -23,7 +23,7 @@
 		1. SHA-1	- f787271597abbcb1297e4e8a4a9561959a195649
 		2. MD5	  	- 114264bbcd0fdfa7bd083a983606a200
 		3. GoodMSX Rom FileName - Rastan Saga (1988) (Taito) (J).rom
-		4. IPS - file name - 	RastanSaga_FMYM2413_20240804.ips  
+		4. IPS - file name - 	RastanSaga_SMSBGMEnhanced_20240804.ips  
 					
 
 ## Notes:
