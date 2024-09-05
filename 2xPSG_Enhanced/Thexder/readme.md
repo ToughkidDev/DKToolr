@@ -21,11 +21,11 @@
 	
 - For IPS Patch use this original ROM:
 
-		1. SHA-1	- a2109da08b1921c4b3b47c6847598d424581b508
+		1. SHA-1		- a2109da08b1921c4b3b47c6847598d424581b508
 		2. MD5	  	- fa240b615fc870ab0f693cbc2ea135c1
 		3. GoodMSX Rom FileName - Thexder (1986) (Gamearts) (J).rom
-		4. IPS - file name - 	Thexder_BGMEnhanced_2ndPSG_20240907.ips  (for 2nd PSG Cartridges)
-                                   - 	Thexder_BGMEnhanced_DARKY_20240907.ips   (for SuperSoniqs DARKY)
+		4. IPS - file name 	- Thexder_BGMEnhanced_2ndPSG_20240907.ips  (for 2nd PSG Cartridges)
+  					- Thexder_BGMEnhanced_DARKY_20240907.ips   (for SuperSoniqs DARKY)
   			
 					
 
