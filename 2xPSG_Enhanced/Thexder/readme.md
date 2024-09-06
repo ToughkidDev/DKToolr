@@ -1,5 +1,5 @@
 
-## MSX Thexder ( 덱스더 ラスタン・サーガ (Game Arts) 1985 ) 
+## MSX Thexder ( 덱스더 テグザー) (Game Arts) 1985 ) 
 ### Enhancement version of MSX Thexder's 2xPSG BGM Enhanced version 1.0 
 ### -----------------------------------------------------
 
