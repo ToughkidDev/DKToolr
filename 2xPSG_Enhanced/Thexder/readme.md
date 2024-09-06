@@ -10,7 +10,7 @@
 
 - MSX1 or higher (with Ram 32k) 
 
-	The original version only required 16K of RAM, but the new version requires a larger RAM space of 32K.
+	The original version only required 16K of Main Ram, but the new version requires a larger Main Ram space of 32K.
 
 - This BGM Enhanced version supports
 
