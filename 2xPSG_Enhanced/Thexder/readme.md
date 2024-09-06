@@ -9,7 +9,9 @@
 <a data-flickr-embed="true" href="https://youtu.be/4eO0g5i14X0?si=7sX3bSecL5jwgzP-" title="Untitled"><img src="https://live.staticflickr.com/65535/51346695440_e35a58e9a7_z.jpg" width="640" height="427" alt="Untitled"/></a>
 
 - MSX1 or higher (with Ram 32k) 
-	
+
+	The original version only required 16K of RAM, but the new version requires a larger RAM space of 32K.
+
 - This BGM Enhanced version supports
 
 	[- Second PSG built-in Cartridge (MegaFlashRomSCCSD+, Carnivore2, FlashJacks, GR8NET, Yamanooto, etc)] 
