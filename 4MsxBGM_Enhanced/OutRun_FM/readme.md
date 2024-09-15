@@ -5,7 +5,7 @@
 
 #### *What is the BGM Enhanced version? (Video Demonstration)*
 
-<a data-flickr-embed="true" href="https://youtu.be/PsoX16iqG1c?si=kDK4z3t2kq1uEvcM" title="Rastan Saga Label x"><img src="https://live.staticflickr.com/65535/53894790726_d2f38596e8_z.jpg" width="640" height="406" alt="Rastan Saga Label x"/></a>
+<a data-flickr-embed="true" href="https://youtu.be/PsoX16iqG1c?si=kDK4z3t2kq1uEvcM" title="outrunmsx"><img src="https://live.staticflickr.com/65535/53996596338_f778d60064_z.jpg" width="640" height="368" alt="outrunmsx"/></a>
 
 - MSX2 or higher (with Ram 64k VRam 128k) 
 	
