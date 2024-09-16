@@ -35,15 +35,15 @@ Enhancement MSX RASTAN SAGA's BGM to the SEGA Master System(SMS) version.
       - Replace PSG BGM with OPLL YM2413 BGM released as Sega Master System Version
 
       - The MSX2 version of OUTRUN is a port based on the SEGA Master System(SMS) version, 
-  	but it was ported with the PSG version instead of the one using YM2413, 
-  	which made the music quite lacking.
+      	but it was ported with the PSG version instead of the one using YM2413, 
+       	which made the music quite lacking.
 
       - OUTRUN 3D (SMS) features the famous track 'Magical Sound Shower' along 
-        with original tracks, reducing the disconnect in quality with the arcade version 
-	while emphasizing the unique originality of the SMS version.
+      	with original tracks, reducing the disconnect in quality with the arcade version 
+       	while emphasizing the unique originality of the SMS version.
      	
       - These elements align well with the MSX version, 
-        which is why I decided to port the BGM from OUTRUN 3D to the MSX version.
+      	which is why I decided to port the BGM from OUTRUN 3D to the MSX version.
 
       
 
