@@ -5,7 +5,7 @@
 
 #### *What is the BGM Enhanced version? (Video Demonstration)*
 
-<a data-flickr-embed="true" href="https://youtu.be/PsoX16iqG1c?si=kDK4z3t2kq1uEvcM" title="outrunmsx"><img src="https://live.staticflickr.com/65535/53996596338_7bc4ce7e41_z.jpg" width="640" height="368" alt="outrunmsx"/></a>
+<a data-flickr-embed="true" href="https://youtu.be/SK6CzpuywZM?si=4voZZqRFpucgff9N" title="outrunmsx"><img src="https://live.staticflickr.com/65535/53996596338_7bc4ce7e41_z.jpg" width="640" height="368" alt="outrunmsx"/></a>
 
 - MSX2 or higher (with Ram 64k VRam 128k) 
 	
