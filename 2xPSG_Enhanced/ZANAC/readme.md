@@ -18,7 +18,8 @@
 		1. SHA-1	- 46e9ed7b7f6dfda8eee266476c9ebc4dd9d8fcc2
 		2. MD5	  	- 7ae5847140746484ec6cf739eede5b15
 		3. GoodMSX Rom FileName - Zanac (1986) (Pony Cannon) (J).rom
-		4. IPS - file name - 	Zanac_2xPSG_202409XX.ips  
+		4. IPS - file name - 	Zanac_2xPSG_202409XX.ips
+  					Zanac_DARKY_202409XX.ips  
 
 
 ## Notes:
@@ -43,4 +44,5 @@ https://youtu.be/I5L4FIv5Ssc?si=Sx1bURdaVfXpHO4D
 
 - Composer: Masatomo Miyamoto
 - Original Game Developer Compile 1986
+- VGM Sound module by Grauw - Re-Play
 - Enhancement code by ToughkidCST 
