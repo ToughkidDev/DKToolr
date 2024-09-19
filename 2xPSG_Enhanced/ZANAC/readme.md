@@ -23,6 +23,10 @@
 
 ## Notes:
 
+	If you press the 'F' key on the title screen to start, the internal PSG will output sound effects only, 
+ 	and BGM will be output exclusively through the 2nd PSG. Use this feature 
+  	if you find it inconvenient when the BGM is playing simultaneously.
+
 	When using the emulator, you can use it after inserting the 2nd PSG (Sound Expansion) into any slot.
 	에뮬레이터 사용시에는 아래와 같이 2nd PSG (Sound Expansion)를 슬롯에 삽입한 후에 실행시켜 주십시요. 
 
