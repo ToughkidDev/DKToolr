@@ -23,8 +23,8 @@
 		1. SHA-1	- 0f10d77d1536993b8455b3b47278ca5782ef9275
 		2. MD5	  	- eff230804098ffe4d342f389b5209eac
 		3. GoodMSX Rom FileName - Outrun (1988) (Pony Cannon) (J).rom
-		4. IPS - file name - 	OutRun_SMSBGMEnhanced_202409XX.ips
-  					OutRun3D_SMSBGMEnhanced_202409XX.ips
+		4. IPS - file name - 	OutRun_SMSBGMEnhanced_20240919.ips
+  					OutRun3D_SMSBGMEnhanced_20240919.ips
   					
 					
 
