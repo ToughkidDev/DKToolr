@@ -35,7 +35,22 @@ Ver 1.0 - Features
 Enhancement MSX2 OutRun's BGM to the SEGA Master System(SMS) version.
 
       - Replace PSG BGM with OPLL YM2413 BGM released as Sega Master System Version
-
+	
+      - Two versions, 
+      	
+       	1. The FM Enhanced version of MSX OutRun, featuring the same soundtrack as the arcade. 
+       		- Magical Sound Shower 
+       		- Passing Breeze   
+       		- Splash Wave.
+	 
+  	 	2. The other version is composed of the soundtrack from "OutRun 3D", 
+   			which was released on the Sega Master System. 
+      		As previously mentioned, it includes two original tracks along with 'Magical Sound Shower.'
+	
+       		- Magical Sound Shower 
+       		- Color Ocean 
+       		- Shining Wind
+      
       - The two masterpieces, "Splash Wave" and "Passing Breeze" used the SMS versions 
       	rearranged by "Louis The Sega Nerd"
        	I would like to express my sincere gratitude to "Louis The Sega Nerd" for kindly providing them.
