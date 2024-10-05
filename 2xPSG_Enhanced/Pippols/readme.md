@@ -2,7 +2,7 @@
 
 ### *What is the Konami Pippols 2xPSG & SCC Enhanced version? (Video Demonstration)*
 
-<a data-flickr-embed="true" href="https://youtu.be/zpgWOMnACFc?si=kvnyWl_FfzLTEbx0" title="894cdf12"><img src="https://live.staticflickr.com/65535/54044380410_527097ed1e.jpg" width="500" height="313" alt="894cdf12"/></a>
+<a data-flickr-embed="true" href="https://youtu.be/vJIQemxQWfc?si=3xtw_lGct8Zbp5EX" title="894cdf12"><img src="https://live.staticflickr.com/65535/54044380410_527097ed1e.jpg" width="500" height="313" alt="894cdf12"/></a>
 
 - MSX1 or higher (with Ram 64k) 
 
