@@ -2,7 +2,7 @@
 
 ### *What is the Konami Yie Ar Kung-Fu 2 2xPSG & SCC Enhanced version? (Video Demonstration)*
 
-<a data-flickr-embed="true" href="https://youtu.be/ngGo17F07Pc?si=CuHAclFhohjM_Pk-" title="894cdf12"><img src="https://live.staticflickr.com/65535/54044380410_527097ed1e.jpg" width="500" height="313" alt="894cdf12"/></a>
+<a data-flickr-embed="true" href="https://youtu.be/ngGo17F07Pc?si=CuHAclFhohjM_Pk-" title="Yie ar KungFu 2 - MSX"><img src="https://live.staticflickr.com/65535/54045695501_9e16d33b37_z.jpg" width="640" height="427" alt="Yie ar KungFu 2 - MSX"/></a>
 
 - MSX1 or higher (with Ram 64k) 
 
