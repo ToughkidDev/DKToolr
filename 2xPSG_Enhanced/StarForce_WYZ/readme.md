@@ -27,7 +27,7 @@
 		2. MD5	  	- 202e2df136f4ba32d175dd8e93210bbb
 		3. GoodMSX Rom FileName - Star Force (1985) (Hudson) (J).rom
 		4. IPS - file name 	- StarForce_BGMEnhanced_2xPSG_20241103.ips  (for 2nd PSG Cartridges)
-  					- StarForce_BGMEnhanced_DARKY_20241103.ips   (for SuperSoniqs DARKY)
+  					- StarForce_BGMEnhanced_DARKY_20241103.ips  (for SuperSoniqs DARKY)
   			
 					
 
@@ -48,18 +48,10 @@ Ver 1.0 - Features
 
 Enhancement MSX StarForce's BGM .
 
-      Despite being high-quality, the PSG version of the music, 
-        which is rarely played due to the iconic MSX FM BGM, has been ported to MSX THEXDER.
-
-      Even though Thexder seems perfect as a game, 
-        the BGM that wasn’t suitable for long play sessions always bothered me. 
-
-      Due to the overwhelming quality of the BGM using FM (YM2413) in the sequel 'FireHawk,' the PSG version, 
-        although made with high quality, seemed to never find its place. 
-
-      It felt like it didn’t quite fit in with FireHawk, 
-        so with the intent to find its rightful home, I decided to port it to Thexder."
-
+      This enhancement patch includes the Smooth Scroll version created by Kaizou KaiKai(@KaikaiKaizou).
+        
+      The 2xPSG version's music and sound engine were both created by WYZ(@jvicentemz)
+        
       If you have any feedback after watching the video, please leave a comment.        
       
 
@@ -70,7 +62,7 @@ Please let me know about any problems you find while playing using the 'Issues' 
 
 - Composer :  Tsukasa Masuko
 - 2xPSG MUSIC & Sound Engine : WYZ(@jvicentemz)
-- SmoothScroll : Kaizou KaiKai.
+- SmoothScroll : Kaizou KaiKai(@KaikaiKaizou)
 - Original Game Developer : Tehkan & Hudson Soft 1985
 - Finalized by ToughkidCST 
 
