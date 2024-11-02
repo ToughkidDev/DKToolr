@@ -27,7 +27,7 @@
 		2. MD5	  	- 202e2df136f4ba32d175dd8e93210bbb
 		3. GoodMSX Rom FileName - Star Force (1985) (Hudson) (J).rom
 		4. IPS - file name 	- StarForce_BGMEnhanced_2xPSG_20241103.ips  (for 2nd PSG Cartridges)
-  					- StarForce_BGMEnhanced_DARKY_20241103.ips  (for SuperSoniqs DARKY)
+  					
   			
 					
 
