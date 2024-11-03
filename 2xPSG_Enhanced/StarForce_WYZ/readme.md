@@ -16,7 +16,6 @@
 
 	[- Second PSG built-in Cartridge (MegaFlashRomSCCSD+, Carnivore2, FlashJacks, GR8NET, Yamanooto, etc)] 
      
-	[- SuperSoniqs DARKY (https://www.msx.org/wiki/SuperSoniqs_Darky)
 			    
 
 - ASCII 8 Megarom Mapper
